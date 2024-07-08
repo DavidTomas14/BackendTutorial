@@ -1,0 +1,11 @@
+[versions]
+
+
+[libraries]
+ktor-jvm = { module = "io.ktor:ktor-server-auth-jvm"}
+
+[bundles]
+androidx = []
+
+
+[plugins]
